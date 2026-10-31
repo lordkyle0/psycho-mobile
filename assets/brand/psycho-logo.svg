@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="18 18 72 72" role="img" aria-label="Psycho">
+  <defs>
+    <linearGradient id="gold" gradientUnits="userSpaceOnUse" x1="54" y1="24" x2="54" y2="84">
+      <stop offset="0" stop-color="#F0CE8E" />
+      <stop offset="1" stop-color="#B88A44" />
+    </linearGradient>
+    <radialGradient id="night" gradientUnits="userSpaceOnUse" cx="54" cy="44" r="78">
+      <stop offset="0" stop-color="#3A2F21" />
+      <stop offset="1" stop-color="#14120F" />
+    </radialGradient>
+  </defs>
+  <rect x="18" y="18" width="72" height="72" fill="url(#night)" />
+  <g fill="none" stroke="url(#gold)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M78.723 40.855 C85.232 53.097 81.801 68.26 70.655 76.508 C59.509 84.756 44.005 83.603 34.201 73.799 C24.397 63.995 23.244 48.491 31.492 37.345 C39.74 26.199 54.903 22.768 67.145 29.277" stroke-width="2.6" />
+    <path d="M73.799 34.201 H73.809" stroke-width="7.6" />
+    <path d="M41 39 V46 C41 53.5 46.8 59 54 59 C61.2 59 67 53.5 67 46 V39" stroke-width="4.6" />
+    <path d="M54 34.5 V73" stroke-width="4.6" />
+    <path d="M48.5 73 H59.5" stroke-width="4.6" />
+  </g>
+</svg>
